@@ -101,7 +101,7 @@ NDVI = (NIR - Red) / (NIR + Red)
 
 ### Poikilo Oros Forest, Athens (2020 vs 2024)
 
-![alt text](image.png)
+![Example Output](data/example_result.png)
 
 ---
 
