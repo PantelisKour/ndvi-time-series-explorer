@@ -1,0 +1,9 @@
+earthengine-api 
+numpy 
+pandas 
+matplotlib 
+rasterio 
+geopandas 
+jupyter 
+notebook 
+
