@@ -5,7 +5,7 @@ import requests
 from io import BytesIO
 
 # Initialize Earth Engine
-ee.Initialize(project='643379335949') # your project id
+ee.Initialize(project='YOUR PROCJET ID')
 
 # Forest Poikilo Mountain, Chaidari
 # Coordinates of the area
