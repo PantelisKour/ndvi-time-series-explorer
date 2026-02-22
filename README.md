@@ -26,7 +26,7 @@ This project analyzes vegetation changes over time using:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/PantelisKour/ndvi-time-series-explorer.git
+git clone https://github.com/pkouridakis/ndvi-time-series-explorer.git
 cd ndvi-time-series-explorer
 ```
 
